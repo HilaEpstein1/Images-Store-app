@@ -9,6 +9,6 @@ npm run dev
 Server side:
 npm start
 
-Both sides needs dowloading dependencies(node modules)
+Both sides needs downloading dependencies(node modules).
 
 Hila Epstein
